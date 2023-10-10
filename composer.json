@@ -1,0 +1,94 @@
+{
+    "name": "revive-adserver/revive-adserver",
+    "description": "The world's most popular free, open source ad serving system",
+    "type": "project",
+    "license": "GNU GPLv2",
+    "authors": [
+        {
+            "name": "The Revive Adserver Team",
+            "email": "revive@revive-adserver.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "vendor-dir": "lib/vendor",
+        "platform": {
+            "php": "7.2.5"
+        },
+        "allow-plugins": {
+            "wikimedia/composer-merge-plugin": true
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "RV\\": "lib/RV/",
+            "RV_Plugins\\": "plugins/"
+        }
+    },
+    "require": {
+        "symfony/config": "^5.4",
+        "symfony/console": "^5.4",
+        "symfony/dependency-injection": "^5.4",
+        "symfony/finder": "^5.4",
+        "league/flysystem": "^1.0",
+        "league/flysystem-ziparchive": "^1.0",
+        "sinergi/browser-detector": "^6.0",
+        "jeremykendall/php-domain-parser": "~2.0",
+        "figdice/asseteer": "dev-master",
+        "wikimedia/composer-merge-plugin": "^2.0",
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/polyfill-ctype": "^1.23",
+        "bower-asset/zxcvbn": "^4.4",
+        "bower-asset/tinymce": "^5.9",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^0.12.98",
+        "rector/rector": "^0.11.53",
+        "symplify/easy-coding-standard": "^9.4"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/revive-adserver/asseteer"
+        },
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "extra": {
+        "post-install-asseteer": [
+            {
+                "vendor": "bower-asset/tinymce",
+                "target": "www/admin/assets/tinymce",
+                "filters": [ "(\\.min|index)\\.(js|css)$", "\\.(eot|ttf|svg|woff)" ]
+            },
+            {
+                "vendor": "bower-asset/zxcvbn/dist",
+                "target": "www/admin/assets/js",
+                "filters": [ "\\.js(.map)?$" ]
+            }
+        ],
+        "merge-plugin": {
+            "include": [
+                "plugins_repo/*/plugins/etc/*/composer.json"
+            ],
+            "recurse": true,
+            "replace": false,
+            "ignore-duplicates": false,
+            "merge-dev": true,
+            "merge-extra": false,
+            "merge-extra-deep": false,
+            "merge-scripts": false
+        }
+    },
+    "scripts" :{
+        "post-install-cmd": [
+            "asseteer\\AssetInstaller::postInstall"
+        ],
+        "post-update-cmd": [
+            "asseteer\\AssetInstaller::postInstall"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revive Adserver: plugins_repo/openXDeliveryLimitations/plugins/etc/Client/_lang/po/en.po\n"
+"Last-Translator: Revive Adserver Team <noreply@revive-adserver.com>\n"
+"Language-Team: English\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: (n != 1)\n"
+
+
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/BrowserVersion.class.php:63
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/OsVersion.class.php:64
+msgid "is any version of"
+msgstr "is any version of"
+
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/BrowserVersion.class.php:76
+msgid "Browser"
+msgstr "Browser"
+
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/BrowserVersion.class.php:83
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/OsVersion.class.php:85
+msgid "Version"
+msgstr "Version"
+
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/BrowserVersion.class.php:126
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/OsVersion.class.php:132
+msgid "Version should be a number"
+msgstr "Version should be a number"
+
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/OsVersion.class.php:78
+msgid "Operating System"
+msgstr "Operating System"
+
+#: plugins_repo/openXDeliveryLimitations/plugins/deliveryLimitations/Client/OsVersion.class.php:138
+msgid "Version is not valid"
+msgstr "Version is not valid"

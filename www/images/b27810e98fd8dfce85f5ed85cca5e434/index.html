@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+
+<body>
+
+    
+    
+    
+  
+
+    <div class="anim" id="anim">
+
+
+        <div class="positionf">
+            
+            
+            <div class="character"></div>
+
+          
+
+        </div>
+
+
+        <div class="positions">
+                
+            <svg class="ballpath"  viewBox="0 0 517 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path id="ballpath" d="M1 39.8142C90.7913 42.3226 137.496 48.879 216.258 67C326.313 35.5817 388.858 18.7393 516 3" stroke="black" stroke-width="5"/>
+            </svg>
+
+        </div>
+
+
+
+        <div class="ballsize">   
+        </div>
+
+
+        <div id="button" class="button"><span>×</span></div>
+
+        
+        <div class="matchmain" id="link">
+            <div class="match">
+
+            
+                <img class="resize" src="./bangladesh.png" alt="Bangladesh"></img>
+
+
+                <div class="vs"><h1>VS</h1></div>
+        
+
+            
+                <img class="resize" src="./india.png" alt="India"></img>
+            
+
+            </div>
+
+            <div class="text"><h3>Watch Live on <span class="tsports">T</span>sports</h3></div>
+
+            <div class="emty"></div>
+
+        </div>
+        
+
+         
+
+        
+
+            
+         
+
+        
+
+
+    </div>
+
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/MotionPathPlugin.min.js"></script>
+
+    <script type="module">
+        
+        import { SplitText } from "./splitText.js"
+        const text = new SplitText(".text");
+        gsap.fromTo(text.chars,{opacity:0,y:0},{opacity:100,stagger:0.05,y:10,duration:2,ease:"back.out",repeat:-1},6)
+        
+    </script>
+   
+    
+    
+    
+
+    <script src="./code.js"></script> 
+
+</body>
+
+</html>

@@ -1,0 +1,105 @@
+/* Global styles come from external css https://codepen.io/GreenSock/pen/gOWxmWG */
+
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color: aquamarine; */
+    
+}
+  
+
+ 
+
+.character {
+    background: url(https://d3th4fjgtl3dup.cloudfront.net/images/drive/final.png);
+    width: 300px;  height:300px; 
+}
+
+
+
+.ballsize{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(15, 77, 8);
+    border-radius: 50%;   
+    position: absolute;
+    z-index: 130;
+}
+
+.anim{
+    position: fixed;
+    margin-top: 40vh;
+    position: relative;
+    width: 80vw;
+    height: 50vh;
+}
+
+
+.positionf{
+    position: absolute;
+    left: 20px;
+    top: 95px;
+}
+
+
+.positions{
+    position: absolute;
+    width: 500px;
+    height: 20px;
+    top:235px;
+    left: 150px;
+    visibility: hidden;
+    
+
+}
+
+.button{
+    background-color: brown;
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 80%;
+    top:10%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.button span{
+    background-color: brown;
+    border-radius: 50%;
+    color: azure;
+    cursor: pointer;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    font-size: 21px;
+    
+}
+
+.match{
+    display: flex;
+    justify-content: space-between;
+}
+
+.matchmain{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 50%;
+    top: 10%;
+    z-index: 100;
+    cursor: pointer;
+
+}
+.text{
+    color: rgb(28, 90, 144);
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.text h3 span{
+    color: blueviolet;
+}
+

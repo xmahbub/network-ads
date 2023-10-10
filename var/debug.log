@@ -1,0 +1,1044 @@
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_account_preference_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table account_preference_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_account_user_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table account_user_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_account_user_permission_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table account_user_permission_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_accounts
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table accounts
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_acls
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table acls
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_acls_channel
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table acls_channel
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_ad_category_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table ad_category_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_ad_zone_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table ad_zone_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_affiliates
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table affiliates
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_affiliates_extra
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table affiliates_extra
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_agency
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table agency
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_application_variable
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table application_variable
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_audit
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table audit
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_banners
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table banners
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_campaigns
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table campaigns
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_campaigns_trackers
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table campaigns_trackers
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_category
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table category
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_channel
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table channel
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_clients
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table clients
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_intermediate_ad
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_intermediate_ad
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_intermediate_ad_connection
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_intermediate_ad_connection
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_intermediate_ad_variable_value
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_intermediate_ad_variable_value
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_raw_ad_click
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_raw_ad_click
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_raw_ad_impression
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_raw_ad_impression
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_raw_ad_request
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_raw_ad_request
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_raw_tracker_impression
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_raw_tracker_impression
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_raw_tracker_variable_value
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_raw_tracker_variable_value
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_summary_ad_hourly
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_summary_ad_hourly
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_summary_ad_zone_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_summary_ad_zone_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_summary_channel_daily
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_summary_channel_daily
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_data_summary_zone_impression_history
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table data_summary_zone_impression_history
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_images
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table images
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_log_maintenance_forecasting
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table log_maintenance_forecasting
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_log_maintenance_priority
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table log_maintenance_priority
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_log_maintenance_statistics
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table log_maintenance_statistics
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_password_recovery
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table password_recovery
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_placement_zone_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table placement_zone_assoc
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_preferences
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table preferences
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_session
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table session
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_targetstats
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table targetstats
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_tracker_append
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table tracker_append
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_trackers
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table trackers
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_userlog
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table userlog
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_users
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table users
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_variable_publisher
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table variable_publisher
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_variables
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table variables
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop table rv_zones
+Oct 09 21:04:18 +0700 OX-65244eb22fc3d [    error]  Unable to drop the table zones
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  starting _checkPackageContents openXBannerTypes.xml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  expecting definition openXBannerTypes.xml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  detected plugin definition file /plugins/etc/openXBannerTypes.xml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  detected group definition file /plugins/etc/oxText/oxText.xml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  detected group definition file /plugins/etc/oxHtml/oxHtml.xml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkOpenXCompatibility for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkSystemEnvironment for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkDatabaseEnvironment for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _runScript for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkDependenciesForInstallOrEnable for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkFiles for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkNavigationCheckers for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkMenus for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerSchema for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerPreferences for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerSettings for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing disableComponentGroup for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerPluginVersion for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _runScript for oxHtml
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkOpenXCompatibility for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkSystemEnvironment for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkDatabaseEnvironment for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _runScript for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkDependenciesForInstallOrEnable for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkFiles for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkNavigationCheckers for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _checkMenus for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerSchema for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerPreferences for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerSettings for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing disableComponentGroup for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _registerPluginVersion for oxText
+Oct 09 21:05:16 +0700 OX-plugins-65244eec77b43 [     info]  Executing _runScript for oxText
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  starting _checkPackageContents openXDeliveryLimitations.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  expecting definition openXDeliveryLimitations.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  detected group definition file /plugins/etc/Client/Client.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  detected group definition file /plugins/etc/Time/Time.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  detected plugin definition file /plugins/etc/openXDeliveryLimitations.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  detected group definition file /plugins/etc/Site/Site.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  detected group definition file /plugins/etc/Geo/Geo.xml
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkOpenXCompatibility for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkSystemEnvironment for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDatabaseEnvironment for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDependenciesForInstallOrEnable for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkFiles for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkNavigationCheckers for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkMenus for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSchema for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPreferences for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSettings for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing disableComponentGroup for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPluginVersion for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Client
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkOpenXCompatibility for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkSystemEnvironment for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDatabaseEnvironment for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDependenciesForInstallOrEnable for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkFiles for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkNavigationCheckers for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkMenus for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSchema for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPreferences for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSettings for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing disableComponentGroup for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPluginVersion for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Geo
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkOpenXCompatibility for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkSystemEnvironment for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDatabaseEnvironment for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDependenciesForInstallOrEnable for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkFiles for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkNavigationCheckers for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkMenus for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSchema for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPreferences for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSettings for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing disableComponentGroup for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPluginVersion for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Site
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkOpenXCompatibility for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkSystemEnvironment for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDatabaseEnvironment for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkDependenciesForInstallOrEnable for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkFiles for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkNavigationCheckers for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _checkMenus for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSchema for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPreferences for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerSettings for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing disableComponentGroup for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _registerPluginVersion for Time
+Oct 09 21:05:19 +0700 OX-plugins-65244eef16538 [     info]  Executing _runScript for Time
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  starting _checkPackageContents openXReports.xml
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  expecting definition openXReports.xml
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  detected plugin definition file /plugins/etc/openXReports.xml
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  detected group definition file /plugins/etc/oxReportsAdmin/oxReportsAdmin.xml
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  detected group definition file /plugins/etc/oxReportsStandard/oxReportsStandard.xml
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkOpenXCompatibility for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkSystemEnvironment for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkDatabaseEnvironment for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _runScript for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkFiles for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkNavigationCheckers for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkMenus for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerSchema for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerPreferences for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerSettings for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing disableComponentGroup for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerPluginVersion for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _runScript for oxReportsStandard
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkOpenXCompatibility for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkSystemEnvironment for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkDatabaseEnvironment for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _runScript for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkFiles for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkNavigationCheckers for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _checkMenus for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerSchema for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerPreferences for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerSettings for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing disableComponentGroup for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _registerPluginVersion for oxReportsAdmin
+Oct 09 21:05:21 +0700 OX-plugins-65244ef1bea4b [     info]  Executing _runScript for oxReportsAdmin
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  starting _checkPackageContents openXDeliveryCacheStore.xml
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  expecting definition openXDeliveryCacheStore.xml
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  detected group definition file /plugins/etc/oxMemcached/oxMemcached.xml
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  detected plugin definition file /plugins/etc/openXDeliveryCacheStore.xml
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  detected group definition file /plugins/etc/oxCacheFile/oxCacheFile.xml
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkOpenXCompatibility for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkSystemEnvironment for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkDatabaseEnvironment for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _runScript for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkDependenciesForInstallOrEnable for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkFiles for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkNavigationCheckers for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkMenus for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerSchema for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerPreferences for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerSettings for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing disableComponentGroup for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerPluginVersion for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _runScript for oxCacheFile
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkOpenXCompatibility for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkSystemEnvironment for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkDatabaseEnvironment for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _runScript for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkDependenciesForInstallOrEnable for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkFiles for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkNavigationCheckers for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _checkMenus for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerSchema for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerPreferences for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerSettings for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing disableComponentGroup for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _registerPluginVersion for oxMemcached
+Oct 09 21:05:24 +0700 OX-plugins-65244ef46a345 [     info]  Executing _runScript for oxMemcached
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  starting _checkPackageContents openXInvocationTags.xml
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  expecting definition openXInvocationTags.xml
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  detected group definition file /plugins/etc/oxInvocationTags/oxInvocationTags.xml
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  detected plugin definition file /plugins/etc/openXInvocationTags.xml
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkOpenXCompatibility for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkSystemEnvironment for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkDatabaseEnvironment for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _runScript for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkDependenciesForInstallOrEnable for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkFiles for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkNavigationCheckers for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _checkMenus for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _registerSchema for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _registerPreferences for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _registerSettings for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing disableComponentGroup for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _registerPluginVersion for oxInvocationTags
+Oct 09 21:05:27 +0700 OX-plugins-65244ef7124fe [     info]  Executing _runScript for oxInvocationTags
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  starting _checkPackageContents openXDeliveryLog.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  expecting definition openXDeliveryLog.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  detected group definition file /plugins/etc/oxLogImpression/oxLogImpression.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  detected group definition file /plugins/etc/oxDeliveryDataPrepare/oxDeliveryDataPrepare.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  detected plugin definition file /plugins/etc/openXDeliveryLog.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  detected group definition file /plugins/etc/oxLogConversion/oxLogConversion.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  detected group definition file /plugins/etc/oxLogRequest/oxLogRequest.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  detected group definition file /plugins/etc/oxLogClick/oxLogClick.xml
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkOpenXCompatibility for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkSystemEnvironment for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDatabaseEnvironment for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDependenciesForInstallOrEnable for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkFiles for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkNavigationCheckers for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkMenus for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSchema for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPreferences for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSettings for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing disableComponentGroup for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPluginVersion for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxDeliveryDataPrepare
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkOpenXCompatibility for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkSystemEnvironment for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDatabaseEnvironment for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkFiles for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkNavigationCheckers for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkMenus for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSchema for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPreferences for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSettings for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing disableComponentGroup for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPluginVersion for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogClick
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkOpenXCompatibility for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkSystemEnvironment for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDatabaseEnvironment for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkFiles for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkNavigationCheckers for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkMenus for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSchema for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPreferences for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSettings for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing disableComponentGroup for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPluginVersion for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogConversion
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkOpenXCompatibility for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkSystemEnvironment for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDatabaseEnvironment for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkFiles for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkNavigationCheckers for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkMenus for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSchema for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPreferences for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSettings for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing disableComponentGroup for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPluginVersion for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogImpression
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkOpenXCompatibility for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkSystemEnvironment for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDatabaseEnvironment for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkFiles for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkNavigationCheckers for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _checkMenus for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSchema for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPreferences for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerSettings for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing disableComponentGroup for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _registerPluginVersion for oxLogRequest
+Oct 09 21:05:29 +0700 OX-plugins-65244ef9b1b0f [     info]  Executing _runScript for oxLogRequest
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  starting _checkPackageContents openXVideoAds.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  expecting definition openXVideoAds.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  detected group definition file /plugins/etc/videoReport/videoReport.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  detected plugin definition file /plugins/etc/openXVideoAds.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  detected group definition file /plugins/etc/oxLogVast/oxLogVast.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  detected group definition file /plugins/etc/vastServeVideoPlayer/vastServeVideoPlayer.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  detected group definition file /plugins/etc/vastOverlayBannerTypeHtml/vastOverlayBannerTypeHtml.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  detected group definition file /plugins/etc/vastInlineBannerTypeHtml/vastInlineBannerTypeHtml.xml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkOpenXCompatibility for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkSystemEnvironment for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDatabaseEnvironment for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDependenciesForInstallOrEnable for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkFiles for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkNavigationCheckers for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkMenus for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSchema for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPreferences for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSettings for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing disableComponentGroup for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPluginVersion for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkOpenXCompatibility for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkSystemEnvironment for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDatabaseEnvironment for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDependenciesForInstallOrEnable for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkFiles for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkNavigationCheckers for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkMenus for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSchema for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPreferences for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSettings for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing disableComponentGroup for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPluginVersion for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkOpenXCompatibility for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkSystemEnvironment for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDatabaseEnvironment for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkFiles for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkNavigationCheckers for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkMenus for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSchema for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPreferences for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSettings for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing disableComponentGroup for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPluginVersion for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for oxLogVast
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkOpenXCompatibility for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkSystemEnvironment for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDatabaseEnvironment for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDependenciesForInstallOrEnable for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkFiles for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkNavigationCheckers for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkMenus for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSchema for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPreferences for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSettings for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing disableComponentGroup for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPluginVersion for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for vastServeVideoPlayer
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkOpenXCompatibility for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkSystemEnvironment for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDatabaseEnvironment for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkDependenciesForInstallOrEnable for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkFiles for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkNavigationCheckers for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _checkMenus for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSchema for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPreferences for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerSettings for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing disableComponentGroup for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _registerPluginVersion for videoReport
+Oct 09 21:05:32 +0700 OX-plugins-65244efc701d2 [     info]  Executing _runScript for videoReport
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  starting _checkPackageContents reviveMaxMindGeoIP2.xml
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  expecting definition reviveMaxMindGeoIP2.xml
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  detected plugin definition file /plugins/etc/reviveMaxMindGeoIP2.xml
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  detected group definition file /plugins/etc/rvMaxMindGeoIP2Maintenance/rvMaxMindGeoIP2Maintenance.xml
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  detected group definition file /plugins/etc/rvMaxMindGeoIP2/rvMaxMindGeoIP2.xml
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkOpenXCompatibility for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkSystemEnvironment for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkDatabaseEnvironment for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _runScript for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkDependenciesForInstallOrEnable for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkFiles for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkNavigationCheckers for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkMenus for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerSchema for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerPreferences for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerSettings for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing disableComponentGroup for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerPluginVersion for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _runScript for rvMaxMindGeoIP2
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkOpenXCompatibility for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkSystemEnvironment for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkDatabaseEnvironment for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _runScript for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkDependenciesForInstallOrEnable for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkFiles for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkNavigationCheckers for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _checkMenus for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerSchema for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerPreferences for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerSettings for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing disableComponentGroup for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _registerPluginVersion for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:35 +0700 OX-plugins-65244eff2e161 [     info]  Executing _runScript for rvMaxMindGeoIP2Maintenance
+Oct 09 21:05:36 +0700 OX-plugins-65244eff2e161 [  warning]  An error occurred trying to download the latest GeoIP2 database: Client error: `GET https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-City&amp;suffix=tar.gz.md5&amp;license_key=` resulted in a `401 Unauthorized` response:
+Invalid license key
+
+
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  starting _checkPackageContents apVideo.xml
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  expecting definition apVideo.xml
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  detected group definition file /plugins/etc/apVideoUI/apVideoUI.xml
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  detected plugin definition file /plugins/etc/apVideo.xml
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  detected group definition file /plugins/etc/apVideo/apVideo.xml
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkOpenXCompatibility for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkSystemEnvironment for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkDatabaseEnvironment for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _runScript for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkDependenciesForInstallOrEnable for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkFiles for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkNavigationCheckers for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkMenus for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerSchema for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerPreferences for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerSettings for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing disableComponentGroup for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerPluginVersion for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _runScript for apVideo
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkOpenXCompatibility for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkSystemEnvironment for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkDatabaseEnvironment for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _runScript for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkDependenciesForInstallOrEnable for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkFiles for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkNavigationCheckers for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _checkMenus for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerSchema for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerPreferences for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerSettings for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing disableComponentGroup for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _registerPluginVersion for apVideoUI
+Oct 09 21:05:38 +0700 OX-plugins-65244f0293607 [     info]  Executing _runScript for apVideoUI
+ 
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Running Maintenance Priority Engine
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  - Selecting All Managers
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:29:03 +0700 OX-maintenance-6524547f284ec [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 21:29:03 CET)
+ 
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Running Maintenance Priority Engine
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:36:23 +0700 OX-maintenance-65245637d8092 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  - Selecting All Managers
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:36:24 +0700 OX-maintenance-65245637d8092 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 21:36:23 CET)
+ 
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Running Maintenance Priority Engine
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  - Selecting All Managers
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:36:42 +0700 OX-maintenance-6524564ad4b0a [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 21:36:42 CET)
+ 
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Running Maintenance Priority Engine
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 19:00:00 to 2023-10-09 19:59:59
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  - Selecting All Managers
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 21:50:12 +0700 OX-maintenance-652459742bb92 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 21:50:12 CET)
+ 
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Running Maintenance Priority Engine
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  - Selecting All Managers
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:10:09 +0700 OX-maintenance-65245e219ff6d [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:10:09 CET)
+ 
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Running Maintenance Priority Engine
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  - Selecting All Managers
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:13:03 +0700 OX-maintenance-65245ecf82620 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:13:03 CET)
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Running Automatic Maintenance Task
+ 
+ 
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Running Maintenance Engine
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Running Maintenance Statistics Engine
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  - Maintenance statistics will NOT be run
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Maintenance Statistics Engine Completed (Started at 2023-10-09 20:17:56 UTC)
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Running Midnight Maintenance Tasks
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Begin pruning old records from data_summary_ad_zone_assoc
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Finished pruning old records from data_summary_ad_zone_assoc: 0 records deleted
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Begin pruning records for expired inactive campaigns from data_summary_ad_zone_assoc
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Finished pruning expired inactive campaigns from data_summary_ad_zone_assoc: 0 records deleted
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Begin pruning records for completed inactive campaigns from data_summary_ad_zone_assoc
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Table rv_data_summary_ad_zone_assoc overhead (number of allocated but unused bytes) = 0
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Midnight Maintenance Tasks Completed
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Running Maintenance Priority Engine
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  - Selecting All Managers
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 20:17:56 UTC)
+Oct 09 22:17:56 +0700 OX-maintenance-65245ff4106df [     info]  Maintenance Engine Completed (Started at 2023-10-09 20:17:56 UTC, taking 00:00:00)
+Oct 09 22:17:56 +0700 OX-65245ff4106df [     info]  Delaying Revive Adserver sync process by 28 seconds.
+Oct 09 22:18:24 +0700 OX-65245ff4106df [     info]  Generating a new platform_hash for the installation
+Oct 09 22:18:25 +0700 OX-65245ff4106df [     info]  Sync: No update
+Oct 09 22:18:25 +0700 OX-65245ff4106df [     info]  Finished Revive Adserver Sync process.
+Oct 09 22:18:25 +0700 OX-65245ff4106df [     info]  Automatic Maintenance Task Completed
+ 
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Running Maintenance Priority Engine
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  - Selecting All Managers
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:23:34 +0700 OX-maintenance-65246146a4c4a [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:23:34 CET)
+ 
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Running Maintenance Priority Engine
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  - Selecting All Managers
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:23:44 +0700 OX-maintenance-652461500f24c [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:23:44 CET)
+ 
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Running Maintenance Priority Engine
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  - Selecting All Managers
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:23:48 +0700 OX-maintenance-652461547132f [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:23:48 CET)
+ 
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Running Maintenance Priority Engine
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  - Selecting All Managers
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:24:16 +0700 OX-maintenance-6524617013d3b [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:24:16 CET)
+ 
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Running Maintenance Priority Engine
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  - Selecting All Managers
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:27:00 +0700 OX-maintenance-652462147b1c0 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:27:00 CET)
+ 
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Running Maintenance Priority Engine
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  - Selecting All Managers
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:32:39 +0700 OX-maintenance-6524636735290 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:32:39 CET)
+ 
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Running Maintenance Priority Engine
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 20:00:00 to 2023-10-09 20:59:59
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  - Selecting All Managers
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 22:59:07 +0700 OX-maintenance-6524699b6a1c1 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:59:07 CET)
+ 
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Running Maintenance Priority Engine
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  - Selecting All Managers
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:03:39 +0700 OX-maintenance-65246aab42f82 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 23:03:39 CET)
+ 
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Running Maintenance Priority Engine
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  - Selecting All Managers
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:05:46 +0700 OX-maintenance-65246b2a55e6c [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 23:05:46 CET)
+ 
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Running Maintenance Priority Engine
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  - Selecting All Managers
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:10:10 +0700 OX-maintenance-65246c32d02c2 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 23:10:10 CET)
+Oct 09 23:57:10 +0700 OX-6524773670e9b [     info]  Running Automatic Maintenance Task
+ 
+ 
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Running Maintenance Engine
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Running Maintenance Statistics Engine
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  - Maintenance statistics will be run
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  - The intermediate table statistics will be updated
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  - The final table statistics will be updated
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]        2023-10-09 20:00:00 UTC and 2023-10-09 20:59:59 UTC
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]        2023-10-09 20:00:00 UTC and 2023-10-09 20:59:59 UTC
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  - Managing (activating/deactivating) campaigns
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Maintenance Statistics Engine Completed (Started at 2023-10-09 21:57:10 UTC)
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Running Maintenance Priority Engine
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 21:00:00 to 2023-10-09 21:59:59
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  - Selecting All Managers
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 21:57:10 UTC)
+Oct 09 23:57:10 +0700 OX-maintenance-6524773670e9b [     info]  Maintenance Engine Completed (Started at 2023-10-09 21:57:10 UTC, taking 00:00:00)
+Oct 09 23:57:10 +0700 OX-6524773670e9b [     info]  Automatic Maintenance Task Completed
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Running Automatic Maintenance Task
+ 
+ 
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Running Maintenance Engine
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Running Maintenance Statistics Engine
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  - Maintenance statistics will be run
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  - The intermediate table statistics will be updated
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  - The final table statistics will be updated
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]        2023-10-09 21:00:00 UTC and 2023-10-09 21:59:59 UTC
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]        2023-10-09 21:00:00 UTC and 2023-10-09 21:59:59 UTC
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  - Managing (activating/deactivating) campaigns
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Maintenance Statistics Engine Completed (Started at 2023-10-09 22:08:16 UTC)
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Running Midnight Maintenance Tasks
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Begin pruning old records from data_summary_ad_zone_assoc
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Finished pruning old records from data_summary_ad_zone_assoc: 0 records deleted
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Begin pruning records for expired inactive campaigns from data_summary_ad_zone_assoc
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Finished pruning expired inactive campaigns from data_summary_ad_zone_assoc: 0 records deleted
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Begin pruning records for completed inactive campaigns from data_summary_ad_zone_assoc
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Table rv_data_summary_ad_zone_assoc overhead (number of allocated but unused bytes) = 0
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Midnight Maintenance Tasks Completed
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Running Maintenance Priority Engine
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 22:00:00 to 2023-10-09 22:59:59
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]    - Selecting Zones forecasts for all managers for OI from 2023-10-09 22:00:00 to 2023-10-09 22:59:59
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  - Selecting All Managers
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  - Selecting Managers with ECPM priority campaigns running
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Maintenance Priority Engine Completed (Started at 2023-10-09 22:08:16 UTC)
+Oct 10 00:08:16 +0700 OX-maintenance-652479d09ee81 [     info]  Maintenance Engine Completed (Started at 2023-10-09 22:08:16 UTC, taking 00:00:00)
+Oct 10 00:08:16 +0700 OX-652479d09ee81 [     info]  Delaying Revive Adserver sync process by 15 seconds.
+Oct 10 00:08:34 +0700 OX-652479d09ee81 [     info]  Sync: No update
+Oct 10 00:08:34 +0700 OX-652479d09ee81 [     info]  Finished Revive Adserver Sync process.
+Oct 10 00:08:34 +0700 OX-652479d09ee81 [     info]  Automatic Maintenance Task Completed
+Oct 10 00:29:06 +0700 OX-65247eb06aa00 [     info]  Sync: No update
